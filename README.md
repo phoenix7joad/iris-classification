@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification
+#  Iris Flower Classification
 
 Multi-class classification comparing **KNN**, **SVM**, and **Decision Tree** with full EDA pipeline.
 
